@@ -1,0 +1,2 @@
+build/		# 忽略 .idea 文件夹
+__pycache__/	# 忽略 __pycache__ 文件夹
